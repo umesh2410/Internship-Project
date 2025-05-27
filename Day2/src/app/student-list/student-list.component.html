@@ -1,0 +1,11 @@
+<h2>Student List</h2>
+
+<div class="student-container">
+  @for (student of students; track student.id) {
+    <div class="student-card">
+      <h3>{{ student.name }}</h3>
+      <p><strong>Email:</strong> {{ student.email }}</p>
+      <p><strong>Course:</strong> {{ student.course }}</p>
+    </div>
+  }
+</div>
