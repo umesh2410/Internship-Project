@@ -68,10 +68,6 @@ cd API
 dotnet restore  
 dotnet run  
 
-Swagger:
-Run project → Navigate to: https://localhost:5001/swagger  
-Test: /api/auth/login, /api/users, /api/missions  
-
 GitHub:
 git init  
 git remote add origin https://github.com/your-username/Internship-Project.git  
