@@ -23,9 +23,9 @@ Day 15: AWS Hosting Session
 
 🛠️ Tech Stack:
 
-Frontend: Angular 15+  
-Backend: .NET Core 6/7 Web API  
-Database: PostgreSQL  
+Frontend: Angular 20 
+Backend: .NET Core 9.0.300 Web API  
+Database: PostgreSQL 17
 API Docs: Swagger (OpenAPI)  
 ORM: Entity Framework Core (Code First)  
 Authentication: JWT Token  
