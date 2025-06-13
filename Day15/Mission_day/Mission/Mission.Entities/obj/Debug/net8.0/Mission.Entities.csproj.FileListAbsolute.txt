@@ -1,0 +1,43 @@
+C:\Users\vadal\Desktop\Day-13\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+C:\Users\vadal\Desktop\Day-13\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.runtimeconfig.json
+C:\Users\vadal\Desktop\Day-13\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\vadal\Desktop\Day-13\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\vadal\Desktop\Day-13\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+C:\Users\vadal\Desktop\Day-13\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadal\Desktop\Day-13\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+C:\Users\vadal\Desktop\Day-13\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+C:\Users\vadal\Desktop\Day-13\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+C:\Users\vadal\Desktop\Day-13\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+C:\Users\vadal\Desktop\Day-13\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+C:\Users\vadal\Desktop\Day-13\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+C:\Users\vadal\Desktop\Day-13\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.genruntimeconfig.cache
+C:\Users\vadal\Desktop\Day-13\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
+C:\Users\DELL\OneDrive\Desktop\new mission\Mission_day-13 (1)\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+C:\Users\DELL\OneDrive\Desktop\new mission\Mission_day-13 (1)\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\new mission\Mission_day-13 (1)\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\DELL\OneDrive\Desktop\new mission\Mission_day-13 (1)\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\DELL\OneDrive\Desktop\new mission\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\new mission\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\new mission\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\new mission\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\new mission\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\new mission\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+C:\Users\DELL\OneDrive\Desktop\new mission\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+C:\Users\DELL\OneDrive\Desktop\new mission\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+C:\Users\DELL\OneDrive\Desktop\new mission\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\new mission\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
+E:\Internship-Project\Day13(3)\Mission_day-13 (1)\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+E:\Internship-Project\Day13(3)\Mission_day-13 (1)\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.runtimeconfig.json
+E:\Internship-Project\Day13(3)\Mission_day-13 (1)\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+E:\Internship-Project\Day13(3)\Mission_day-13 (1)\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+E:\Internship-Project\Day13(3)\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+E:\Internship-Project\Day13(3)\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship-Project\Day13(3)\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+E:\Internship-Project\Day13(3)\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+E:\Internship-Project\Day13(3)\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+E:\Internship-Project\Day13(3)\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.sourcelink.json
+E:\Internship-Project\Day13(3)\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+E:\Internship-Project\Day13(3)\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+E:\Internship-Project\Day13(3)\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+E:\Internship-Project\Day13(3)\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.genruntimeconfig.cache
+E:\Internship-Project\Day13(3)\Mission_day-13 (1)\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
